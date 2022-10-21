@@ -11,7 +11,7 @@
 <script>
 //    location.href="test.do";
        location.href="boardlist.do";
-//      테스트
+//      테스트 왜 파일만 올라가지 뭐지
 </script>
 
 </body>
