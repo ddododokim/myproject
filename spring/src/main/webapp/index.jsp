@@ -11,6 +11,7 @@
 <script>
 //    location.href="test.do";
        location.href="boardlist.do";
+// 테스트
 </script>
 
 </body>
